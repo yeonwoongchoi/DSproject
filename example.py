@@ -1,3 +1,5 @@
+##openweather에서 실시간 온도 값 받아서 보여주기
+##https://m.blog.naver.com/wideeyed/221335980042참조
 prov_list = [
     {'name':'Seoul','city_id':'1835847'},
     {'name':'Busan','city_id':'1838524'},
